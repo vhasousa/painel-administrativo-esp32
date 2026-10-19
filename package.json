@@ -1,0 +1,7 @@
+{
+  "name": "firjan-senai-monitor-mqtt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"build": "node build.mjs", "dev": "node preview.mjs", "test": "node --test tests/*.test.mjs"},
+  "dependencies": {"mqtt": "5.10.4"}
+}
